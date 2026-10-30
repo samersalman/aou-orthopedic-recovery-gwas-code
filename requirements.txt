@@ -1,0 +1,7 @@
+google-cloud-bigquery
+numpy
+pandas
+pyarrow
+scikit-learn
+scipy
+

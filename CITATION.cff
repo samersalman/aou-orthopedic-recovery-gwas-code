@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and archived release."
+title: "Analysis code for a genome-wide association study of maladaptive recovery after elective orthopedic surgery"
+type: software
+authors:
+  - family-names: Salman
+    given-names: Samer G.
+    orcid: "https://orcid.org/0009-0007-9897-4071"
+license: MIT
+repository-code: "https://github.com/samersalman/aou-orthopedic-recovery-gwas"
+date-released: 2026-10-29
+
